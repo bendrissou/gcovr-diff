@@ -18,7 +18,7 @@ Before running, make sure the two source folders are present in the root directo
 
 Next, run the following command:
 ```
-$ python3 cov-diff.py --source-1 run-1 --source-2 run-2 --summary
+$ python3 unique_lines.py --source-1 run-1 --source-2 run-2 --summary
 ```
 
 In the above example `run-1` stores the first target program run, and `run-2` stores the second target program run.
