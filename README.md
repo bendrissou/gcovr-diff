@@ -1,5 +1,5 @@
 # Find unique coverage of two program runs
-The purpose of this script is to compare code covered of two program runs, stored in two folders. The two folders should contain the same source code, but the coverage data may be different in each. The difference in coverage can be due to running two different test suites.
+The purpose of this script is to compare code coverage of two program runs, stored in two folders. The two folders should contain the same source code, but the coverage data may be different in each. The difference in coverage can be due to running two different test suites.
 
 The tool will use gcovr to collect coverage information. Then it will display the following:
 
