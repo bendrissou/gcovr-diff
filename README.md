@@ -14,7 +14,7 @@ The tool will use gcovr to collect coverage information. Then it will display th
 
 ## How to run
 
-Before running, make sure the two source folders are present in the root directory. And contain the gcovr instrumented code and date.
+Before running, make sure the two source folders are present in the root directory, and contain the gcovr instrumented code and data.
 
 Next, run the following command:
 ```
